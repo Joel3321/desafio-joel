@@ -1,6 +1,5 @@
 let nome = "**{joel}**";
 let nivelXp = 10003;
-//console.log("O herói de nome",nome,"esta");
 if (nivelXp <=1000){
   console.log("O herói de nome",nome,"esta no nível de **{Ferro}**");
 }
